@@ -1,0 +1,66 @@
+# ==========================================
+# GERAL & SISTEMA OPERACIONAL
+# ==========================================
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# ==========================================
+# AMBIENTES DE DESENVOLVIMENTO (IDE)
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ==========================================
+# FRONT-END (Node.js, Vue 3, Quasar)
+# ==========================================
+# Diretório de dependências do Node
+node_modules/
+
+# Logs de erro / execução
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas de Build e Cache do Quasar
+/frontend/dist/
+/frontend/.quasar/
+/frontend/.cache/
+
+# ==========================================
+# BACK-END (Python, FastAPI)
+# ==========================================
+# Compilados e Caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Ambientes Virtuais (Venv)
+.venv/
+venv/
+ENV/
+env/
+
+# Outros
+pip-log.txt
+*.sqlite3
+
+# ==========================================
+# INFRA / VARIÁVEIS / DOCKER
+# ==========================================
+# Arquivos que guardam senhas e variáveis ocultas
+.env
+.env.*
+!.env.example
+
+# Volumes de banco de dados locais montados no host
+pgdata/
+data/

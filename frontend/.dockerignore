@@ -1,0 +1,11 @@
+node_modules
+dist
+.quasar
+.cache
+.env
+.env.*
+.git
+.gitignore
+README.md
+Dockerfile
+*.log

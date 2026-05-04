@@ -41,6 +41,10 @@ projeto-noticias-tecnologias/
 │   └── quasar.config.js    # Injetor global de plugins e dev config
 └── docker-compose.yml      # Master builder que compila Back, Front e atrela o microserviço do Postgres.
 ```
+---
+
+### Vídeo demonstração - Portal Dinâmico de Notícias Tech
+[![Assista ao vídeo de exemplo](https://img.youtube.com/vi/rDG4d6JLzc8/maxresdefault.jpg)](https://youtu.be/rDG4d6JLzc8)
 
 ---
 

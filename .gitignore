@@ -52,6 +52,10 @@ env/
 # Outros
 pip-log.txt
 *.sqlite3
+TUTORIAL.md
+Melhorias.md
+ComoRodaroProjeto.md
+
 
 # ==========================================
 # INFRA / VARIÁVEIS / DOCKER
